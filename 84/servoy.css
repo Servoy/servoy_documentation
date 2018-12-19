@@ -5,4 +5,14 @@
 h2
 {
 	font-size: 14px;
+	margin-bottom: 2px;
+}
+h3
+{
+	font-size: 14px;
+	margin-bottom: 2px;
+}
+p
+{
+	margin: 0px;
 }
