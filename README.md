@@ -2,4 +2,4 @@
 
 This is the servoy documenation that has the context sensitive help section inside the developer
 
-This is served through git hub pages.
+This is served through git hub pages https://servoy.github.io/servoy_documentation/
